@@ -1,0 +1,130 @@
+body{
+    max-width: 1570px;;
+}
+header{
+    border:1px solid black;
+    height:50px;
+    
+}
+.navul{
+    display: flex;
+    list-style: none;
+    gap:50px;
+    
+}
+.navli1{
+    padding-right: 1100px;
+}.main{
+    height:500px;
+}
+.img1{
+    height:500px;
+    width:100%;
+}
+.ArchitectsSection{
+    position:relative;
+    
+}
+.paragrapone{
+    position: absolute;
+    top:0;
+    padding-left: 700px;
+    padding-top: 250px;
+    text-align: center;
+}
+.paragrapone button{
+    background-color: black;
+    color:white
+}
+.FirstImageGroup{
+    display: flex;
+}
+.FirstImageOfFirstImageGroup{
+    position: relative;
+}
+.FirstImageOfFirstImageGroup img{
+    width:356.25px;
+    padding-right: 25px;;
+}
+.sumerhouse{
+    position:absolute;
+    top:0;
+}
+button{
+    
+    background-color: black;
+    color: white;
+}
+.brickhouse{
+    position:absolute;
+    top:0;
+}
+.Renovted{
+    position:absolute;
+    top:0;
+}
+.barnHouse{
+    position:absolute;
+    top:0;
+}
+.SecondImageGroup{
+    display:flex;
+}
+.FirstImageOfSecondImageGroup{
+    position:relative;
+}
+.FirstImageOfSecondImageGroup img{
+    width:356.25px;
+    padding-right: 25px;;
+}
+.ThirdImageGroup{
+    display: flex;;
+}
+.FirstImageOfThirdImageGroup img{
+    width:356.25px;
+    padding-right: 25px;;
+}
+.FirstImageOfThirdImageGroup button{
+    width:356.25px;
+}
+.contactSection form input{
+    width:1495px;
+}
+.anand{
+    width:100%;
+    height:600px;
+}
+.mobileResponsive{
+    display: none;
+}
+@media (min-width:320px) and (max-width:767px)
+{
+    .navli1{
+        display: none;
+    }
+    .navli{
+        display: none;
+    }
+    .mobileResponsive{
+        display: block;
+    }
+    .FirstImageGroup{
+        flex-direction: column;
+    }
+    .SecondImageGroup{
+        flex-direction: column;
+    }
+    .ThirdImageGroup{
+        flex-direction: column;
+    }
+    form input{
+        width:300px;
+    }
+    body{
+        max-width:400px;
+    }
+}
+.backgroundImage{
+    background-image:url("../../Downloads/WhatsApp Image 2025-03-23 at 11.03.28_ce213131.jpg") ;
+    position: relative;
+}
