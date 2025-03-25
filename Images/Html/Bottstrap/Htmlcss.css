@@ -1,0 +1,43 @@
+
+.navul {
+    list-style: none;
+    display: flex;
+    justify-content: start;
+    gap:30px;
+}
+body{
+    color: rgba(0, 0, 0, 0.595);
+}
+.header{
+    background-color: black;
+    height:40px;
+    color: white;
+    margin-top: 0px;
+    padding-top:3px;
+
+}
+.main{
+    text-align: center;
+    margin-top: 20px;
+}
+.mainImage{
+    display: flex;
+    padding-left: 450px;
+    padding-right: 0px;
+}
+.mobileresponsive{
+    display:none;
+}
+@media (min-width:320px) and (max-width:767px)
+{
+    .mobileresponsive{
+        display:block;
+    }
+    .navli{
+        display: none;
+    }
+    .mainImage{
+        flex-direction: column;
+        padding-left: 0px;
+    }
+}

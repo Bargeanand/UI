@@ -1,0 +1,11 @@
+.container-fluid
+{
+    background-image: url("../../Downloads/WhatsApp Image 2025-03-15 at 07.52.34_0c7837bf.jpg");
+    background-size: cover;
+    width:100px;
+    height:500px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+
+}
