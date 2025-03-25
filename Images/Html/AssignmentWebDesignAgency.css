@@ -1,0 +1,75 @@
+body .holebody{
+    max-width:1150px;margin: 0 auto;background-color:#f1d5c7; overflow:auto; border:1px solid black;height:700px;margin-bottom:-00px ;margin-top: 20px; 
+}
+body{
+    background-color: black;
+}
+header{
+    border:1px solid #f6ccb8;margin-bottom: 200px;
+}
+.headerclass{
+    float:left;padding-top: 30px;padding-left: 15px; 
+}
+.headerclass img{
+    width:100px;
+}
+main{
+    max-width:900px;height:320px;border: 1px solid #f1d5c7;;margin:0 auto; ;
+}
+.chhildmainclass1{
+    float:left; text-align: center;
+}
+.chhildmainclass1 img{
+    width: 45px;padding-left: 95px;text-align: center;padding-right: 0px;padding-top: 20px;
+}
+.chhildmainclass2{
+    color:#fa8362;float:left;text-align: center;font-size: 200%;padding-left: 115px;padding-right: 50px; padding-bottom: -15px;;
+}
+
+
+.chhildmainclass3{
+    float :left;text-align: center;padding-left:280px;
+}
+.headerclass1 ul li{
+    float:right;padding-left: 25px;color:white;list-style: none;;color: black;padding-right: 15px;;
+}
+.headerclass1 ul li h3 button{
+    background-color:#f8653a;border-radius:10px;
+}
+.chhildmainclass4 h3 button{
+  border:1px solid #f8653a;border-radius: 1px;margin-left: 450px;background-color: #f48260;border-radius:10px;padding-bottom: -10px;
+}
+.mainheaderclass{
+    background-color: white;
+    height:90px;
+    border-radius: 15px;border:1px solid white;margin-top: 15px;
+    margin-left: 10px;margin-right: 10px;
+}
+.chhildfooterclass1{
+    text-align: center;
+}
+.footercalss1{
+    max-width: 1700px;border:1px solid blue;background-color: black;color:white;height:270px;
+}
+.chhildfooterclass2{
+    padding-top:10px ;float:left; padding-right: 75px;padding-left: 15px;padding-left: 55px;
+}
+footer{
+    max-width:1700px;border:1px solid blue;height:670px;
+}
+.footercalss2{
+   
+    border:1px solid blue ; height:400px;background-color: #f1d3c8;
+}
+.footercalss2_1 img {
+   width:350px;border:1px solid black;border-radius: 650px;margin-top: 30px;margin-left: 30px;height:350px;
+}
+.footercalss2_1 {
+    float:left;padding-right: 130px;
+}
+.footercalss2_1 p{
+    padding-top: 15px;
+}
+#anand{
+    border-radius:8px;background-color: #f8653a;padding:5px;
+}

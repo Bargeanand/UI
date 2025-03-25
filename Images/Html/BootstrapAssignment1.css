@@ -1,0 +1,67 @@
+.container
+{
+    background-color: blue;
+    text-align: center;
+    height:620px;
+    padding-top: 10px;
+    margin-top: 50px;
+}
+img {
+    width: 100px;
+}
+.card.col-mid-3.card-section2 {
+    width: 200px;
+    margin-right: 50px;
+    height: 220px;
+    border-top-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top: 5px solid red;
+    
+}
+.card.col-mid-3.card-section3
+{
+    width: 200px;
+    margin-right: 50px;
+    height: 220px;
+    border-top-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top: 5px solid red;
+}
+#id1
+{
+    padding-left: 90px;
+}
+#id2
+{
+    padding-left: 90px;
+    margin-top: 10px;
+   
+}
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+button{
+    border:none;
+    background: none;
+    width:285px;
+    background-color: #4244e6;
+}
+#id3
+{
+ 
+    width:300px;
+    margin:0 auto;
+
+  
+}
+#id4
+{
+    margin-top: 9px;
+    height:50px;
+    background-color: black;
+    color:white;
+    font-size: 70%;
+    padding-top: 15px;
+ 
+}

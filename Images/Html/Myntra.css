@@ -1,0 +1,121 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+body{
+    max-width: 1557px;;
+}
+.FirstDivOfHeader{
+    float:left;
+    padding-right: 20px;
+}
+.FirstDivOfHeader #img10{
+    padding-top: -7px;
+}
+.FirstSection
+{
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+    border:1px solid whitesmoke;
+    width:1557px;
+    padding-top: 25px;
+    height:80px;
+}
+#img2{
+    width:14px;
+    margin-left: 5px;
+    margin-top: 5px;
+   
+}
+.FirstDivOfHeader form{
+    border:1px solid black;
+    width: 500px;
+    border-radius: 5px;
+    padding-right: 20px;
+    margin-top: 2px;
+    height:30px;
+    display: flex;
+    margin-bottom: 5px;
+    background-color: whitesmoke;
+}
+.FirstDivOfHeader input{
+    margin-left: 20px;
+    background: none;
+    border: none;
+    width:220px;
+}
+#img3{
+    width:15px;
+}
+#img4{
+    width:15px;
+}
+.FirstDivOfHeader sup{
+    color:palevioletred
+}
+.SecondSection{
+    padding-top: 50px;
+    width:1557px;
+    height:200px;
+   
+  
+}
+.FirstDivOfSecondSection{
+    float:left;
+    text-align: center;
+    border:1px solid none;
+ 
+
+}
+.FirstDivOfSecondSection h1{
+    font-size: 200%;
+    
+    font-weight:normal;
+}
+.FirstDivOfSecondSection h2{
+    font-size:290%;
+}
+.FirstDivOfSecondSection h3{
+    font-size: 150%;
+}
+.innerdiv1{
+    border:1px solid red;
+    width:600px;
+    border-radius: 10px;
+    ;
+    padding-top: 15px;
+    height:150px;
+    margin-right: 0px;
+    margin-left: 300px;
+}
+
+.innerdiv2{
+    border:1px solid red;
+    border-radius: 10px;
+    width:500px;
+    height:150px;
+    padding-top: 15px;
+    margin-left: 0px;
+}
+.innerdiv2{
+    background-color: rgb(168, 216, 244);
+}
+.innerdiv2 h1{
+    font-size: 200%;
+}
+.innerdiv2 h5{
+    font-size: 230%;
+   
+}
+.ThirdSection{
+    width:1557px;
+}
+main{
+    height:700px;
+    border:1px solid black;
+    width:1557px;
+}
+.FirstDivOfThirdSection img{
+    width:1556px;
+}

@@ -1,0 +1,35 @@
+.fristsection{
+    background-image: url(images/background1.jpg);
+   background-size: cover;
+    /* width: 1200px;
+    height: 1000px;
+    
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-right: 230px;
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px; */
+    padding-top: 100px;
+    padding-left: 170px;
+    height: 800px;
+    padding-bottom: 30px;
+}
+
+.fristdiv{
+    background-image:url(images/background4.jpg) ;
+    width: 1200px;
+    height: 600px;
+    margin-top: 10px;
+    border-radius: 15px;
+    overflow: hidden; 
+}
+.seconddvi{
+    background: rgba(255, 0, 0, 0.4);
+    height: 600px;
+}
+.thirddiv{
+    padding-top: 100px;
+    text-align: center;
+    color:white;
+}

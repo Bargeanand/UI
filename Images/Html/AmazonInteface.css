@@ -1,0 +1,63 @@
+body{
+    max-width: 1570px;background-color: white;overflow: auto;
+}
+header{
+    background-color: black;border: 1px solid black;    
+}
+header .HeaderDiv1{
+  
+    padding-top: 10px;
+    padding-left:10px;
+    margin-bottom: 10px;
+}
+.HeaderDivSubClass img{
+ width:100px; 
+}
+
+.HeaderDivSubClass{
+    float:left;padding-right:15px; color:white; 
+}
+
+.HeaderDivSubClass form input{
+    width:600px;height: 14px;
+}
+.HeaderDivSubClass form img
+{
+    width:50px;
+    height:12px;
+    background-color: orange;
+}
+.HeaderDiv12SubClass img{
+    width:10px;
+    background-color: white;
+}
+.HeaderDiv2{
+margin-top: 30px;
+margin-bottom: 10px;
+}
+.HeaderDiv12SubClass{
+    float:left;padding-right: 30px;
+}
+main{
+    background-color:#ffc0cb;
+}
+.maindiv img{
+    padding-right: 20px;width:1490px;border:1 px solid grey;margin-bottom: 15px;
+}
+#text p{
+    text-align: center;border:1px solid;padding-top: 10px;padding-bottom: 10px;overflow: hidden;margin-top: 0px;background-color: white;margin-bottom: 0px;
+}
+#smallImage img{
+    float:left;;padding-right: 25px;padding-top:15px;width:341px;border:1px solid rgb(128, 128, 128);margin-left: 0px;background-color: #ffc0cb;margin-top: 0px; margin-bottom: 10px;
+}
+#smallImage2 img{
+    float:right;padding-right: 25px;padding-top:15px;width:341px;border:1px solid rgb(128, 128, 128);margin-left: 0px;background-color: #ffc0cb;margin-top: 0px;margin-top: 10px;margin-bottom: 10px;
+}
+
+footer{
+    border :1px solid black;margin-top: 15px;
+}
+.footerclass{
+   margin-top:0px; text-decoration: none;border:1px solid black;background-color: black;color:white;float:left;padding-right: 172px;
+}
+

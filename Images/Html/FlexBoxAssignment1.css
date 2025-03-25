@@ -1,0 +1,276 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+main{
+    background-color: #4244e6;
+    border: 1px solid none;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 140px;
+    height: 600px;
+    width:1200px;
+   
+    padding-top: 70px;
+    color:white;
+}
+.firstsection
+{
+    text-align: center;
+}
+main h1{
+    font-size: 240%;
+}
+.firstsection
+{
+    height:160px;
+    border:1px solid none;
+}
+.container{
+    margin-top: 10px;;
+    border: 1px solid none;
+    height:400px;
+    width:800px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ 
+    
+}
+.one
+{
+    border: 1px solid white;
+    border-radius: 10px;
+    height:180px;
+    width:180px;
+    background-color: white;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top: 4px solid red;
+}
+.item1
+{
+    background-image: url("../../Pictures/Screenshots/Screenshot 2025-03-02 004008.png");
+    margin-top: 10px;
+    height:140px;
+    width:140px;
+    margin-left: 15px;
+    background-size: cover;
+    position: relative;
+   
+}
+.subitem1
+{
+    text-align: center;
+    color:black;
+    position:absolute;
+    left:10;
+    bottom: 0;;
+}
+.two
+{
+    border: 1px solid white;
+    border-radius: 10px;
+    height:180px;
+    width:180px;
+    background-color: white;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top: 4px solid red;
+   
+}
+.item2{
+    background-image: url("../../Downloads/WhatsApp Image 2025-03-01 at 12.41.03 (1).jpeg");
+    background-size: cover;
+    margin-top: 10px;
+    height:140px;
+    width:140px;
+    margin-left: 15px;
+    position: relative;
+}
+.subitem2
+{
+    text-align: center;
+    color:black;
+    position:absolute;
+    bottom: 0;
+    left:10;
+
+}
+.three
+{
+    border: 1px solid white;
+    border-radius: 10px;
+    height:180px;
+    width:180px;
+    background-color: white;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top: 4px solid red;
+}
+.item3{
+    background-image: url("../../Downloads/WhatsApp Image 2025-03-01 at 12.41.04.jpeg");
+   
+    background-size:cover;
+    border: 1px solid none;
+    border-radius: 10px;
+    margin-top: 10px;
+    height:140px;
+    width:140px;
+    margin-left: 15px;
+    position: relative;
+}
+.subitem3
+{
+    text-align: center;
+    color:black;
+    position: absolute;
+    left:10;
+    bottom: 0;
+}
+.four{
+    border: 1px solid white;
+    border-radius: 10px;
+    height:180px;
+    width:180px;
+    background-color: white;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top: 4px solid red;
+}
+.item4{
+    background-image: url("../../Downloads/WhatsApp Image 2025-03-01 at 12.41.04 (1).jpeg");
+    margin-top: 10px;
+    height:140px;
+    width:140px;
+    margin-left: 15px;
+    background-size: cover;
+    position: relative;
+ 
+}
+.subitem4{
+    text-align: center;
+    color:black;
+    position:absolute;
+    left:10;
+    bottom: 0;;
+}
+.five{
+    border: 1px solid white;
+    border-radius: 10px;
+    height:180px;
+    width:180px;
+    background-color: white;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top: 4px solid red;
+}
+.item5
+{
+    background-image: url("../../Downloads/WhatsApp Image 2025-03-01 at 12.41.05.jpeg");
+    background-size:cover;
+    position: relative;
+    margin-top: 10px;
+    height:140px;
+    width:140px;
+    margin-left: 15px;
+}
+.subitem5{
+   
+    text-align: center;
+    color:black;
+    position:absolute;
+    left:10;
+    bottom: 0;
+}
+.six
+{
+    border: 1px solid white;
+    border-radius: 10px;
+    height:180px;
+    width:180px;
+   background-color: white;
+   border-bottom-right-radius: 7px;
+   border-bottom-left-radius: 7px;
+   border-top: 4px solid red;
+}
+.item6
+{
+    background-image: url("../../Downloads/WhatsApp Image 2025-03-01 at 12.41.05 (1).jpeg");
+    background-size: cover;
+    position: relative;
+    margin-top: 10px;
+    height:130px;
+    width:130px;
+    margin-left: 15px;
+    position: relative;
+}
+.subitem6
+{
+    position:absolute;
+    text-align: center;
+    color:black;
+    left:10;
+    bottom: 0;
+}
+.seven
+{
+    background-color: white;
+    border: 1px solid white;
+    height:180px;
+    width:180px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top: 4px solid red;
+    
+}
+.item7
+{
+    background-image: url("../../Downloads/WhatsApp Image 2025-03-01 at 12.41.05 (2).jpeg");
+    background-size: cover;
+    
+   position: relative;
+    height:140px;
+    width:140px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.subitem7
+{
+    text-align: center;
+    color:black;
+    position:absolute;
+    left:10;
+   bottom: 0;
+}
+.item8
+{
+    background-image: url("../../Downloads/WhatsApp Image 2025-03-01 at 12.41.06.jpeg");;
+    background-size: cover;
+    margin-top: 10px;
+    height:140px;
+    width:140px;
+    margin-left: 15px;
+}
+.eight
+{
+    border:1px solid white;
+    border-radius: 10px;
+    width:180px;
+    height: 180px;
+    background-color: white;
+    position: relative;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top: 4px solid red;
+}
+.subitem8
+{
+    color:black;
+    text-align: center;
+    position:absolute;
+    left:10;
+    bottom:0;
+}

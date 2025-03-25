@@ -1,0 +1,51 @@
+<!Doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="">
+        <title>Basic9_table_rowspan_columnspan</title>
+        <style>table,th,td{
+            border:1px solid rgb(6, 16, 12) ;
+        }</style>
+    </head>
+    <body>
+      
+        <h1> <caption><em>Student Information</em></caption></h1>
+        <table>
+            <thead>
+             <tr>
+                <th rowspan="2">Student ID</th>
+                <th rowspan="2">name</th>
+                <th colspan="2">Academic Information</th>
+                <th rowspan="2">City</th>
+             </tr>   
+             <tr>
+                <th>Grade</th>
+                <th>Subjects</th>
+             </tr>
+            </thead>
+        <tbody>
+            <tr>
+                <td>101</td>
+                <td>john doe</td>
+                <td rowspan="2">A</td>
+                <td>Math,Science</td>
+                <td rowspan="2">new york</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>jane Smith</td>
+                <td>History,English</td>
+            </tr>
+            <tr>
+                <td>103</td>
+                <td>Mochael Brown</td>
+                <td>B<sup>+</sup></td>
+                <td>Biology,Chemistry</td>
+                <td>Chicago</td>
+           </tr>
+           <tr>
+            <td colspan="5">End Of Table</td>
+           </tr>
+        </tbody>
+    </table>

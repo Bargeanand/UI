@@ -1,0 +1,13 @@
+.mainITCompanySection{
+   padding-bottom: 10px;padding-left:10px;margin-left: 300px;width:500px; float:right; background-color:#f5f5f5;border:1px solid red ;border-radius: 5px;
+}
+.mainITCompanySection h1{
+    color: blue;
+}
+
+body{
+    width:1000px;float:right;margin:0 auto;
+}
+button{
+    background-color: blue;
+}

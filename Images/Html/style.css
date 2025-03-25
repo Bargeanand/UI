@@ -1,0 +1,13 @@
+header{
+    margin:0px;margin-bottom: 0px;background-color: pink;border: blue;padding-top: 10px;padding-bottom: 10px;
+}
+nav{
+    margin-top: 0px;margin-bottom: 0px;background-color: skyblue;border: green;padding-top: 10px;padding-bottom: 10px;
+}
+main{
+    margin-top: 0px;margin-bottom: 0px;background-color:rgb(147 194 204);border: 0cap;padding-top: 100px;padding-bottom: 100px;
+    padding-left: 150px; padding-right: 150px;
+}
+footer{
+    margin-top: 0px;margin-bottom: 0px;background-color: gray;border: 0cap;padding-top: 10px;padding-bottom: 10px;
+}

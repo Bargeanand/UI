@@ -1,0 +1,19 @@
+#myclass1{
+    background-color: greenyellow;padding-top: 100px;padding-bottom: 100px;margin-top: 0px;margin-bottom: 0px;padding-left: 500px;padding-right: 500px;text-decoration: none;
+}
+#myclass1 a{padding-right: 30px;}
+#myclass1 a{text-decoration: none;} 
+#myclass2 
+{
+    background-color: pink;margin-top: 0px;margin-bottom: 0px; padding-right: 30px;
+}
+#myclass2  form{padding-right: 60px;}
+div{
+    background-color: #031926;margin-top: 0px;margin-bottom: 0px;
+}
+div a{
+    text-decoration: none;
+}
+div a{
+    padding-right: 300px;
+}
